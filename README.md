@@ -10,12 +10,15 @@
 - Récupérer de l'information à partir de formulaires et la stocker en base de données.
 
 ## Installation 👨‍💻
-
-Le petit "bundle install" des famiiiilles and ruby app ! enjoyyyy
-
 ```bash
-bundle install
+$ git clone git@github.com:Pierrelgx/franck_sinatra.git
+puis 
+$ bundle install
+et enfin 
+$ shotgun -p 4567
 ```
+
+
 
 ## Usage
 
